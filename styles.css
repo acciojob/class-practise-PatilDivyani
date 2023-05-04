@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-p:nth-last-child(odd) {
+p:nth-last-child(even) {
 	color:#00f;
 	background: #eee;
 }
